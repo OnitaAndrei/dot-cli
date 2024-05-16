@@ -8,4 +8,4 @@ Also update the `$defaultName` property and the description set inside the `conf
 
 Using the command line, go to your application's root directory, then type the following command:
 
-    php /bin/cli.php demo:command
+    php ./bin/cli.php demo:command
