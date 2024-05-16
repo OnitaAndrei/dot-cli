@@ -49,7 +49,7 @@ This is the config file you will add your commands to.
 
 Using the command line, go to your application's root directory, then type the following command:
 
-    php /bin/cli.php
+    php ./bin/cli.php
 
 The output should look similar to this, containing information on how to start using dot-cli:
 
